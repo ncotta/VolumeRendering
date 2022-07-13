@@ -1,2 +1,2 @@
 # VolumeRendering
-Volume rendering with VTK
+Volume rendering and visualizing space data with VTK
